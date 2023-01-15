@@ -12,7 +12,7 @@ public class DBConnect {
 		String jdbcUrl = "jdbc:mysql://localhost:3306/flight_reservation_tracker?useSSL=false";
 		String driver = "com.mysql.cj.jdbc.Driver";
 		String user = "root";
-		String password = "Yhg_dece38";
+		String password = "Sujisk@0096";
 
 
 		try
